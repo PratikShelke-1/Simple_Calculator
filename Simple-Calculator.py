@@ -1,3 +1,5 @@
+# This is a commit for second branch
+
 # This function adds two numbers
 def add(x, y):
     return x + y
