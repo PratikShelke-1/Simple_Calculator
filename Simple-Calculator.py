@@ -1,3 +1,6 @@
+# A changed made by collaborater
+
+
 # This is a commit for second branch
 
 # This function adds two numbers
